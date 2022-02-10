@@ -1,0 +1,36 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "TEST-429": true,
+        "**/*.d": true,
+        "**/*.o": true,
+        "**/*.crf": true,
+        "*.code-workspace": true,
+        "**/.mxproject": true,
+        "**/.ioc": true,
+        "tools": true,
+        "MPU-6050": true,
+       
+    },
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "TEST-429": true,
+        "**/*.d": true,
+        "**/*.o": true,
+        "**/*.crf": true,
+        "*.code-workspace": true,
+        "**/.mxproject": true,
+        "**/.ioc": true,
+        "tools": true,
+        "MPU-6050": true,
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+
+}
